@@ -9,8 +9,8 @@ export default function Blog() {
       <h1>My Blog</h1>
       <hr />
       <ul>
-        <IndexRow id="hello-world" />
-        <IndexRow id="hello-next" />
+        <IndexRow id="hello-123" />
+        <IndexRow id="hello-456" />
       </ul>
     </div>
   );
